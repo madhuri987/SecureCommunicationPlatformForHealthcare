@@ -1,0 +1,50 @@
+[
+  {
+    "id": "P001",
+    "name": "Alice",
+    "age": 30,
+    "diagnosis": "Flu"
+  },
+  {
+    "id": "P002",
+    "name": "Bob",
+    "age": 25,
+    "diagnosis": "Cold"
+  },
+  {
+    "id": "P003",
+    "name": "Eve",
+    "age": 40,
+    "diagnosis": "Fever"
+  },
+  {
+    "id": "P004",
+    "name": "Joe",
+    "age": 30,
+    "diagnosis": "Flu"
+  },
+  {
+    "id": "P005",
+    "name": "Madhuri",
+    "age": 25,
+    "diagnosis": "Cold"
+  },
+  {
+    "id": "P006",
+    "name": "Sam",
+    "age": 40,
+    "diagnosis": "Fever"
+  },
+  {
+    "id": "P007",
+    "name": "Charlie",
+    "age": 35,
+    "diagnosis": "Allergy"
+  },
+  {
+    "id": "P008",
+    "name": "David",
+    "age": 22,
+    "diagnosis": "Headache"
+  }
+]
