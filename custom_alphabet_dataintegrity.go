@@ -1,6 +1,7 @@
 /*
 Sensitive patient information like lab test report is encoded for secure transmission or storage
-and then decoded for interpretation or analysis
+and then decoded for interpretation or analysis. This sensitive information is transmitted from lab to
+healthcare professional like doctor.
 */
 package main
 

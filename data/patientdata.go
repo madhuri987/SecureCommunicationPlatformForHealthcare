@@ -1,3 +1,6 @@
+/*
+Patient lab data and error handling
+*/
 package data
 
 import (

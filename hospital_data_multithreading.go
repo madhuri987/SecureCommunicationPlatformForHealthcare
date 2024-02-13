@@ -1,3 +1,9 @@
+/*
+The code demonstrates web scraping of hospital details with colly library.
+Name, address, establishment date, number of beds, physician name, and reviews
+are among the extracted data. The code shows how to construct HTML element callbacks,
+handle errors, set up a collector for each URL, and publish the hospital information that has been gathered.
+*/
 package main
 
 import (

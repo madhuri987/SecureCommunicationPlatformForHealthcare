@@ -1,3 +1,6 @@
+/*
+Rot13 encryption and decryption function are defined
+*/
 package cipher
 
 // ROT13 Cipher Encryption Function
