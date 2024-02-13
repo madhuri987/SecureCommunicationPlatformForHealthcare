@@ -1,4 +1,9 @@
-// server code to read patient data from the JSON file
+/*
+Patient data retrieval server side code.
+Custom encryption module from the "cipher" package is used to obtain patient data based on decrypted patient ID.
+For the purpose of securely retrieving patient data, the server exposes an endpoint ("/patient/{id}") that
+demonstrates HTTP handling, JSON parsing, and encryption/decryption.
+*/
 package main
 
 import (

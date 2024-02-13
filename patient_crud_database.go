@@ -1,3 +1,7 @@
+/*
+The code demonstrates CRUD(create,read,update,delete) and display all operation.
+It will perform crud of patient data
+*/
 package main
 
 import (

@@ -1,3 +1,8 @@
+/*
+Patient data retrieval client side code.
+In order to retrieve patient data,
+it sends a GET request to a server endpoint after encrypting a patient ID using a encryption module.
+*/
 package main
 
 import (

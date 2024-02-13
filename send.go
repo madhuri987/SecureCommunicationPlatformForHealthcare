@@ -1,7 +1,6 @@
 /*
 The code demonstrates the process of serializing patient data, publishing it to a RabbitMQ queue,
 and logging the status of the operation.
-The use of context with a timeout ensures that the operation does not exceed a specified time limit.
 */
 
 package main
